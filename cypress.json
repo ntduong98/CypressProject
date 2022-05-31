@@ -1,5 +1,13 @@
 {
     "reporter": "cypress-mochawesome-reporter",
     "projectId": "679nwe",
-    "experimentalStudio": true
+    "experimentalStudio": true,
+    "env": {
+        "db": {
+            "host": "sql6.freesqldatabase.com",
+            "user": "sql6496606",
+            "password": "5LgQy66VJP",
+            "database": "sql6496606"
+        }
+    }
 }
